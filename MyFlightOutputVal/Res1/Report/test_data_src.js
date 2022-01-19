@@ -1,0 +1,1 @@
+﻿var __testDataSource={items:[{dataFilePath:'Default.xlsx',dataFileFormat:'excel',dataFileFolder:'\\\\Mac\\Home\\Documents\\UFT One\\MyFlightOutputVal\\Res1',namePairs:[]}]};

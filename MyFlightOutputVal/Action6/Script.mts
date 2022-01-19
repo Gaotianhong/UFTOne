@@ -1,0 +1,1 @@
+﻿SystemUtil.closeProcessByName("FlightsGUI.exe")
